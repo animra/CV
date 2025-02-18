@@ -18,7 +18,7 @@ Bachelor in Software Engineering
 
 **Programming Languages:**
 
-Proficient in C++, C#, jQuery, and Python.
+Proficient in C++, C#, jQuery, Python, and R.
 
 **Deep Learning Frameworks:**
 
